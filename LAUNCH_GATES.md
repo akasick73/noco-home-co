@@ -10,3 +10,6 @@
 - [ ] Configure analytics, Search Console, sitemap, canonical URLs, structured data and production robots/index settings after domain selection.
 - [ ] Run mobile and accessibility QA; test menus, page links, form validation, field labels, keyboard use, images and contact method.
 - [ ] Review Colorado and city licensing and privacy rules with qualified professionals; approve public launch.
+
+## V7: new logo + identity
+Working logo is a concept only; requires name/logo clearance and owner approval. Local cities listed are geographic positioning, not verified licensed service availability. Do not present these proposed standards as historical evidence.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 438" role="img" aria-label="NoCo Home Co. Northern Colorado home repairs">
+<path d="M180 12C130 18 67 48 24 74V308c0 58 65 91 156 121 91-30 156-63 156-121V74C293 48 230 18 180 12Z" fill="#0F3D56" stroke="#F7F4EB" stroke-width="10"/>
+<path d="M180 15C130 21 67 51 27 76v231c0 55 64 89 153 118 89-29 153-63 153-118V76C293 51 230 21 180 15Z" fill="none" stroke="#0F3D56" stroke-width="12"/>
+<path d="M43 118 91 78l31 22 55-56 36 38 29-21 73 58-61-18-14 7-27-22-23 16-21-28-40 39-32-20-29 21Z" fill="#F7F4EB"/>
+<path d="m96 160 84-53 84 53" stroke="#B56A3B" stroke-width="11" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M246 117V97h16v30" stroke="#B56A3B" stroke-width="9" fill="none"/>
+<rect x="170" y="129" width="11" height="11" fill="#F7F4EB"/><rect x="184" y="129" width="11" height="11" fill="#F7F4EB"/><rect x="170" y="143" width="11" height="11" fill="#F7F4EB"/><rect x="184" y="143" width="11" height="11" fill="#F7F4EB"/>
+<text x="180" y="232" fill="#F7F4EB" font-family="Georgia,serif" font-size="91" font-weight="bold" text-anchor="middle">NoCo</text>
+<path d="M17 247H343v75H17Z" fill="#B56A3B"/>
+<text x="180" y="297" fill="#F7F4EB" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800" letter-spacing="2" text-anchor="middle">HOME CO.</text>
+<text x="180" y="352" fill="#F7F4EB" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="bold" letter-spacing="2" text-anchor="middle">NORTHERN COLORADO</text>
+<text x="180" y="377" fill="#F7F4EB" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="bold" letter-spacing="2" text-anchor="middle">HOME REPAIRS</text>
+<path d="m150 391 22 23m-22 0 22-23m16 0 22 23m-22 0 22-23" fill="none" stroke="#F7F4EB" stroke-width="5" stroke-linecap="round"/>
+</svg>
