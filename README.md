@@ -1,10 +1,9 @@
-# NoCo Home Co. — V7 Heritage staging build
+# NoCo Home Co. V8 — Exterior Repair Focus
 
-## Install
-Upload the **extracted contents** to your existing GitHub `akasick73/noco-home-co` repository. Preserve the `public/` folder. Cloudflare Pages: framework `None`, build command blank, build output directory `public`, branch `main`.
+GitHub/Cloudflare Pages staging package. Upload the extracted contents (including `public/`) to the repository root. Cloudflare Pages build output: `public`.
 
-## Visual design
-This implements the approved heritage brand direction using original scalable SVG artwork (`public/assets/noco-heritage-badge.svg`, `noco-heritage-horizontal.svg`, `favicon.svg`) and custom CSS. The header, colors, editorial typography, hero, service icons and section backgrounds are updated while retaining the original multi-page static site and intake interaction. The reference mockup is inspiration, not an exact HTML reproduction; authentic people/photos are not fabricated.
+V8 preserves the V7 heritage design while changing homepage and adding four dedicated repair service pages. Windsor-based service area: approximately 60-minute drive, verified case-by-case.
 
-## Staging safeguards
-No real lead intake or processing has been enabled. Keep the current noindex headers/robots. Do not promote as a live business until company registration, licensing/insurance requirements, phone and email, service cities, responsible personnel, vendor contracts, client communications, privacy and intake are confirmed. Existing site remains publicly reachable on pages.dev unless Cloudflare Access protects it. Review all other public claims prior to launch.
+IMPORTANT: This is STAGING. `robots.txt` and `_headers` retain noindex. Intake and payment workflows are not production-enabled. No 970 number, real dispatch, payments, licensing, insurance or subcontractor credentials are implied.
+
+Review all existing V7 legacy informational pages and intake form labels before public launch; the new service pages and homepage are the approved direction, but legacy pages may contain broad-scope language.
